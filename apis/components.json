@@ -1,0 +1,53 @@
+{
+    "data": [
+        {
+            "type": "image",
+            "name": "球形图片",
+            "props": {
+                "src": "http://image.tupian114.com/20121128/14562878.jpg",
+                "width": 100,
+                "height": 100
+            }
+        },
+        {
+            "type": "vcode",
+            "name": "竖向条码"
+        },
+        {
+            "type": "vline",
+            "name": "竖线"
+        },
+        {
+            "type": "vtext",
+            "name": "垂直文本"
+        },
+        {
+            "type": "htext",
+            "name": "水平文本",
+            "props": {
+                "text": "<%=abc%>"
+            }
+        },
+        {
+            "type": "table",
+            "name": "表格",
+            "props": {
+                "rows": [
+                    {
+                        "tag": "tr",
+                        "cells": [
+                            {
+                                "tag": "td",
+                                "hasBorder": true,
+                                "width": 100,
+                                "height": 30
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "status": 1,
+    "message": "success"
+}

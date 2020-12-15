@@ -1,0 +1,18 @@
+{
+  "name": "printer-editor",
+  "description": "printer online editor",
+  "version": "1.0.0",
+  "author": "kooboy_li <kooboy_li@163.com>",
+  "dependencies": {
+    "@types/jquery": "3.5.4",
+    "del": "6.0.0",
+    "gulp": "4.0.2",
+    "gulp-concat": "2.6.1",
+    "gulp-uglify": "3.0.2",
+    "gulp-watch": "5.0.1",
+    "magix-combine": "3.11.43",
+    "magix-gallery": "2.0.6",
+    "typescript": "4.1.2"
+  },
+  "private": true
+}

@@ -1,0 +1,15 @@
+{
+    "data": [
+        {
+            "title": "dogs",
+            "src": "http://pic26.photophoto.cn/20130326/0033034324989838_b.jpg",
+            "width": 200,
+            "height": 90
+        },
+        {
+            "error":"some message"
+        }
+    ],
+    "msg":"test",
+    "ok": true
+}
